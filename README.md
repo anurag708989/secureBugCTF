@@ -1,4 +1,4 @@
-# web exploitation
+# web exploitation (More explanation with flags will be updated)
 ## 1 window oem algorithm
 SBCTF{CR4CK1NG_95_W4S_N0T_TH4T_H4RD}
 
