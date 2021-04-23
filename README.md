@@ -54,9 +54,10 @@ FLAG{Tak3_uR_Skat3B0arD}
 
 ## 3 False Alarm
 ### Try to make a dummy alert (Dom based XSS challenge)
+### dom based xss challenge 
+##### payload:https://ch6.sbug.se/#mass=alert('dummy')
 
-## 4 TALK TO ADMIN
-### are we strong them in files??
+FLAG{DOMDOM-XSS-1337}
 
 # Digital forensics
 ## parts 
