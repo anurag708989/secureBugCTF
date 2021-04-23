@@ -1,7 +1,7 @@
 
 
 
-![](https://app.securebug.se/assets/CTF.svg)
+<img src="https://app.securebug.se/assets/CTF.svg" alt="odin ctf logo" style="height: 100px; width:100px;"/>
 
 
 
