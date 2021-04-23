@@ -1,4 +1,14 @@
-# web exploitation (More explanation with flags will be updated)
+
+
+
+![](https://app.securebug.se/assets/CTF.svg)
+
+
+
+(more info will be updated soon)
+
+
+# web exploitation 
 ## 1 window oem algorithm
 SBCTF{CR4CK1NG_95_W4S_N0T_TH4T_H4RD}
 
