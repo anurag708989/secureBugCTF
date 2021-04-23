@@ -36,11 +36,13 @@ SBCTF{Bellagio}
 
 ## MR B ultimatum
 
-https://pastebin.com/u/THE4llANDP0werfu1MrB
-------------
-https://github.com/THE4llANDP0werfu1MrB
+used sherlock for usernames search 
+
+### https://pastebin.com/u/THE4llANDP0werfu1MrB
+
+### https://github.com/THE4llANDP0werfu1MrB
 Hi, I’m Mr.B I’m currently working on a great project and wanted to share it with fellow programmers, but anyone with access to internet could see it here, i will throw the code in my "bin" wink so only programmers can see it. here's the address: "/2yxugDsw", and the password: "37r4QwoeMCZR8k8I"
-------------
+
 
 
 
