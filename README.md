@@ -73,6 +73,9 @@ SBCTF{Y0U_H4VE_PL4Y3D_1T_W3LL}
 [+] Reddit: https://www.reddit.com/user/THE4llANDP0werfu1MrB
 
 
+![](https://github.com/anurag708989/secureBugCTF/blob/main/osint_1.png)
+
+
 
 ### here you get a base64 encoded text:
 ```
@@ -88,6 +91,8 @@ SBCTF{privateMailOfMrB}
 ## MR B supremacy
 https://www.instagram.com/the4llandp0werfu1mrb/
 
+![](https://github.com/anurag708989/secureBugCTF/blob/main/osint_%40.png)
+
 here you will find posted hotel image just reverse lookup it and you will find the hotel name
 
 
@@ -99,11 +104,13 @@ SBCTF{Bellagio}
 used sherlock for usernames search 
 
 ### https://pastebin.com/u/THE4llANDP0werfu1MrB
+![](https://github.com/anurag708989/secureBugCTF/blob/main/osint3_2.png)
 ### in pastebing just put the password got from github repository :)
 
 
 ### https://github.com/THE4llANDP0werfu1MrB
 
+1[](https://github.com/anurag708989/secureBugCTF/blob/main/osint3_1.png)
 Hi, I’m Mr.B I’m currently working on a great project and wanted to share it with fellow programmers, but anyone with access to internet could see it here, i will throw the code in my "bin" wink so only programmers can see it. here's the address: "/2yxugDsw", and the password: "37r4QwoeMCZR8k8I"
 
 
